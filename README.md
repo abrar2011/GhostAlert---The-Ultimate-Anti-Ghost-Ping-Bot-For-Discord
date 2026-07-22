@@ -205,12 +205,7 @@ Some ideas planned for future versions:
 Contributions, bug reports, and feature suggestions are always welcome.
 
 If you find a bug or have an idea for improving GhostAlert, feel free to open an Issue or submit a Pull Request.
-
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
+Contatct me [Through Discord](https://discordapp.com/users/1401569296240480311)
 
 ---
 
