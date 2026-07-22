@@ -178,28 +178,6 @@ Message gets deleted.
 
 ---
 
-# 🛠 Built With
-
-- Python
-- discord.py
-- aiosqlite
-- python-dotenv
-
----
-
-# 🚀 Future Plans
-
-Some ideas planned for future versions:
-
-- Reply ghost ping detection
-- Edited message ghost ping detection
-- Better analytics
-- Attachment logging
-- Statistics dashboard
-- Exportable moderation logs
-
----
-
 # 🤝 Contributing
 
 Contributions, bug reports, and feature suggestions are always welcome.
