@@ -106,7 +106,7 @@ python bot.py
 If everything is configured correctly, you should see:
 
 ```
-Logged in as GhostAlert
+Logged in as YOUR_BOT_NAME
 Synced X commands.
 ```
 
