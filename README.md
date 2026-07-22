@@ -18,7 +18,7 @@ So I decided to build my own.
 
 The goal was simple:
 
-> **If someone ghost pings, everyone who needs to know should know.**
+> **If someone ghost pings, everyone who needs to know should know, even if moderators are abusing their power.**
 
 GhostAlert focuses on doing one thing well—detecting ghost pings quickly and reliably while remaining lightweight and easy to configure.
 
